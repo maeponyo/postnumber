@@ -59,4 +59,4 @@ function func3(json){
 	},1000);
 	 }
 
-</script>
+
